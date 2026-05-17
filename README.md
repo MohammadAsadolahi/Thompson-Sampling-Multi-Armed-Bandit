@@ -8,9 +8,11 @@
 [![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)](https://numpy.org)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white)](https://matplotlib.org)
 [![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)](https://scipy.org)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 *A from-scratch NumPy implementation of Thompson Sampling for K-action stochastic bandits with Gaussian reward distributions, including experiments reproducing the TS-Normal strategy from [Agrawal & Goyal (2012)](https://arxiv.org/abs/1209.3353).*
+
+**By [Mohammad Asadolahi](https://github.com/MohammadAsadolahi)**
+Senior Agentic AI Engineer | Agentic AI Architectures In The Wild
 
 </div>
 
@@ -61,7 +63,7 @@ Thompson_Sampling_Multi_Armed_Bandit/
 ### Prerequisites
 
 ```bash
-pip install numpy matplotlib scipy seaborn tqdm
+pip install numpy matplotlib scipy seaborn tqdm pandas
 ```
 
 ### Run
@@ -128,3 +130,13 @@ Reproduces the **TS-Normal** strategy from *"Further Optimal Regret Bounds for T
 > Shipra Agrawal and Navin Goyal. *"Further Optimal Regret Bounds for Thompson Sampling."*
 > In Proceedings of the 16th International Conference on Artificial Intelligence and Statistics (AISTATS), 2013.
 > [[arXiv:1209.3353]](https://arxiv.org/abs/1209.3353)
+
+---
+
+## Author
+
+**Mohammad Asadolahi** — Senior Agentic AI Engineer
+
+Focused on **Agentic AI Architectures In The Wild**.
+
+[![GitHub](https://img.shields.io/badge/GitHub-MohammadAsadolahi-181717?logo=github)](https://github.com/MohammadAsadolahi)
